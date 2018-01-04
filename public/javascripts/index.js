@@ -69,7 +69,6 @@ $(document).ready(function () {
         temperatureData.shift();
       }
 
-
       myLineChart.update();
     } catch (err) {
       console.error(err);

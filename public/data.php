@@ -57,4 +57,4 @@ echo "<td>" . $row['logdatetime'] . "</td></tr>";
 } ?>
         </tbody>
     </table>
-
+<h1><a href="https://davisual.azurewebsites.net"> Real time data </a></h1>
